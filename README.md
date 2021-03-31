@@ -1,3 +1,9 @@
+### Especialização em Computação Aplicada à Educação (USP)
+
+<p align="center">
+<img class="especializacao" src="https://raw.githubusercontent.com/ezefranca/plano-inclinado-rea/main/img/especializacao_na_usp-766864.png" width="30%" height="30%">
+</p>
+
 # Plano Inclinado REA (Recurso Educacional Aberto)
 
 O Recurso Educacional Aberto produzido foi um simulador de plano inclinado. Ele possibilita a parametrização de todas as variáveis básicas como Comprimento do plano (metros), Ângulo do plano (graus), Coeficiente de Atrito (valor entre 0-1). Além disso permite configurações opcionais avançadas como Taxa de atualização (s), Comprimento do corpo (metros), Altura do corpo (metros) e Aceleração da gravidade.
