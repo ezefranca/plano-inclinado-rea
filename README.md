@@ -22,6 +22,10 @@ O Recurso Educacional Aberto produzido foi um simulador de plano inclinado. Ele 
     </a>
 </p>
 
+**Autor**: Ezequiel França  <br>
+**BNCC**: EF07CI01
+
+
 ## Licença
 
 Creative Commons Legal Code [CC0 1.0 Universal](/LICENSE)
