@@ -25,5 +25,4 @@ O Recurso Educacional Aberto produzido foi um simulador de plano inclinado. Ele 
 ## Licença
 
 Creative Commons Legal Code [CC0 1.0 Universal](/LICENSE)
-
 [![License: CC0-1.0](https://licensebuttons.net/l/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
